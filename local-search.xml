@@ -8,7 +8,7 @@
     <link href="/2022/06/25/%E5%A6%82%E4%BD%95%E8%BF%90%E8%A1%8C%E3%80%8Aunix%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E3%80%8B%E7%9A%84%E6%BA%90%E7%A0%81/"/>
     <url>/2022/06/25/%E5%A6%82%E4%BD%95%E8%BF%90%E8%A1%8C%E3%80%8Aunix%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E3%80%8B%E7%9A%84%E6%BA%90%E7%A0%81/</url>
     
-    <content type="html"><![CDATA[<h1 id="开篇"><a href="#开篇" class="headerlink" title="开篇"></a>开篇</h1><p><a href="http://www.unpbook.com/unpv13e.tar.gz">unix网络编程源码下载地址</a><br>下载解压之后如下图：<br><img src="https://img-blog.csdnimg.cn/e2f9b92c35f7495880d014eee4aeb041.png#pic_center" alt="源码文件夹"></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="开篇"><a href="#开篇" class="headerlink" title="开篇"></a>开篇</h1><p><a href="http://www.unpbook.com/unpv13e.tar.gz">unix网络编程源码下载地址</a><br>下载解压之后如下图：<br><img src="https://img-blog.csdnimg.cn/e2f9b92c35f7495880d014eee4aeb041.png#pic_center" alt="源码文件夹"></p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><code class="hljs c"><span class="hljs-meta">#<span class="hljs-keyword">include</span> <span class="hljs-string">&lt;stdio.h&gt;</span></span><br><span class="hljs-type">int</span> <span class="hljs-title function_">main</span><span class="hljs-params">(<span class="hljs-type">void</span>)</span><br>&#123;<br>    <span class="hljs-built_in">printf</span>(<span class="hljs-string">&quot;Hello world\n&quot;</span>);<br>    <span class="hljs-keyword">return</span> <span class="hljs-number">0</span>;<br>&#125;<br></code></pre></td></tr></table></figure>]]></content>
     
     
     
